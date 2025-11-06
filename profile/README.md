@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://autel-sky-for-drones.github.io/.github">
-    <img src="https://img.shields.io/badge/Скачать_Autel%E2%80%89Sky-0078D6?style=for-the-badge&logo=apple&logoColor=white" alt="Скачать Autel Sky">
+    <img src="https://img.shields.io/badge/Скачать_Autel_Sky-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Скачать Autel Sky">
   </a>
 </p>
 
